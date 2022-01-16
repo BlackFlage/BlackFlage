@@ -4,7 +4,7 @@
 - 👀 Interested in Game Engine Development
 - :biohazard: C++ developer
 - :video_game: Main goal is to become developer of tools used by greatest game making companies!
-- 
+- 🖨️ Reach me via e-mail: jakub.bednarek1009@gmail.com
 
 <table>
   <tr>
