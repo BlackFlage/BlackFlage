@@ -18,17 +18,17 @@
  </table>
 
 ## Worked with
-<img src="cplusplus.svg" alt="C++" width="32" height="32"><img src="java.svg" alt="C++" width="32" height="32"><img src="ocaml.svg" alt="C++" width="32" height="32"><img src="scala.svg" alt="C++" width="32" height="32"><img src="python.svg" alt="C++" width="32" height="32"><img src="mongodb.svg" alt="MongoDB" width="32" height="32">
+<img src="icons/cpp.png" alt="C++" width="48" height="48"><img src="icons/java.png" alt="Java" width="48" height="48"><img src="icons/ocaml.png" alt="Ocaml" width="48" height="48"><img src="icons/scala.png" alt="C++" width="64" height="64"><img src="icons/python.png" alt="Python" width="48" height="48"><img src="icons/mongodb.png" alt="MongoDB" width="48" height="48">
 
 ## Main project
-<img src="cplusplus.svg" alt="C++" width="32" height="32"><a href="https://github.com/Jakub-Bednarek/vis">Visual - game engine</a>
+<img style="vertical-align:middle" src="icons/cpp.png" alt="C++" width="32" height="32"><a href="https://github.com/Jakub-Bednarek/vis"> Visual - game engine</a>
 
 ## Finished projects
-<img src="java.svg" alt="Java" width="48" height="48"><a href="https://github.com/Jakub-Bednarek/programmin-paradigms">Algorithms and data structures</a></br>
-<img src="java.svg" alt="Java" width="48" height="48"><a href="https://github.com/Jakub-Bednarek/zbysiu_the_bot">ZbysiuTheBot - Java discord bot</a></br>
-<img src="cplusplus.svg" alt="C++" width="48" height="48"><a href="https://github.com/Jakub-Bednarek/DoublyLinkedList">Doubly linked list</a></br>
-<img src="cplusplus.svg" alt="C++" width="48" height="48"><a href="https://github.com/Jakub-Bednarek/ECS">Simple EntityComponentSystem</a></br>
+<img style="vertical-align:middle" src="icons/java.png" alt="Java" width="32" height="32"><a href="https://github.com/Jakub-Bednarek/programmin-paradigms"> Algorithms and data structures</a></br>
+<img src="icons/java.png" alt="Java" width="32" height="32"><a href="https://github.com/Jakub-Bednarek/zbysiu_the_bot"> ZbysiuTheBot - Java discord bot</a></br>
+<img src="icons/cpp.png" alt="C++" width="32" height="32"><a href="https://github.com/Jakub-Bednarek/DoublyLinkedList"> Doubly linked list</a></br>
+<img src="icons/cpp.png" alt="C++" width="32" height="32"><a href="https://github.com/Jakub-Bednarek/ECS"> Simple EntityComponentSystem</a></br>
 
 ## Work in progress
-<img src="ocaml.svg" alt="OCaml" width="48" height="48"><img src="scala.svg" alt="Scala" width="48" height="48"><img src="java.svg" alt="Java" width="48" height="48"><a href="https://github.com/Jakub-Bednarek/programming_paradigms">Programming Paradigms</a></br>
-<img src="cplusplus.svg" alt="C++" width="48" height="48"><a href="https://github.com/Jakub-Bednarek/effective_programming_tech">Effective programming techinques</a></br>
+<img src="icons/ocaml.png" alt="OCaml" width="32" height="32"><img src="icons/scala.png" alt="Scala" width="32" height="32"><img src="icons/java.png" alt="Java" width="32" height="32"><a href="https://github.com/Jakub-Bednarek/programming_paradigms"> Programming Paradigms</a></br>
+<img src="icons/cpp.png" alt="C++" width="32" height="32"><a href="https://github.com/Jakub-Bednarek/effective_programming_tech"> Effective programming techinques</a></br>
