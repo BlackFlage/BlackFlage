@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Jakub-Bednarek - Wroclaw University of Science and Technology student
 - 👀 Interested in Game Engine Development
-- :biohazard: C++ developer
+- :biohazard: Employed as C++ developer in Nokia Solutions and Networks
 - :video_game: Main goal is to become developer of tools used by greatest game making companies!
 - 🖨️ Reach me via e-mail: jakub.bednarek1009@gmail.com
 
